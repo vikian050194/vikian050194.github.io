@@ -9,3 +9,4 @@ Just for now it's a pure Markdown that converted to HTML by some GitHub automati
 All notes are listed here and I'll try to group it by topic later (may be).
 
 1. [book and film](book_and_film.md)
+2. [wallpaper](wallpaper.md)
