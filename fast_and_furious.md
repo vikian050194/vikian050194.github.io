@@ -1,0 +1,3 @@
+## fast and furious
+
+Recently I had a "pain". I need to track my own working time, but ordinar timers on a PC or smartphone is not user friendly. There is no way to change remained time exept one: stop, setup, start. It sucks. Also I want to be able to use couple of features like "smart" notification, statistics and so on. Prototype was created in few hours. It's not sounds like someting extraordinar, because it's common way to solve small problems, but not for me. TOP 3 interesting pet-project did not have fast prototype, because I tried to make good architecture from the scratch. Probably it is not impossible, but costs a lot of time resource or impressive amount of experience. Just make a prototype and make "pain" a bit smaller.
