@@ -4,12 +4,18 @@ This is my personal tech diary or something like that. Probably it will include 
 
 Just for now it's a pure Markdown that converted to HTML by some GitHub automatic engine on the fly.
 
-~~All notes are grouped according to topic~~
+To be a software engineer:
+1. [sources of knowledge](engineer/sources_of_knowledge.md)
+2. [fast and furious](engineer/fast_and_furious.md)
+3. [engineer](engineer/engineer.md)
 
-All notes are listed here and I'll try to group it by topic later (may be).
+JavaScript:
+1. [equality](javascript/equality.md)
+2. [property descriptor](javascript/property_descriptor.md)
+3. [inheritance](javascript/inheritance.md)
 
-1. [book and film](book_and_film.md)
-2. [wallpaper](wallpaper.md)
-3. [equality](javascript/equality.md), [property descriptor](javascript/property_descriptor.md) and [inheritance](javascript/inheritance.md) in JavaScript
-4. [fast and furious](fast_and_furious.md)
-5. [engineer](engineer.md)
+k8s:
+1. [minikube](k8s/minikube.md)
+
+Foobar:
+1. [wallpaper](foobar/wallpaper.md)

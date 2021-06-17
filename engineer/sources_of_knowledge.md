@@ -1,4 +1,4 @@
-## book and film
+## sources of knowledge
 
 It seems I no longer need to watch courses. Finally my knowledge base has "critical mass" and intuition based on experience works fine at least in general cases.
 
