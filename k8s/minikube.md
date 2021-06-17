@@ -4,13 +4,15 @@ Recently I took part in an intensive course "k8s for developers" made by slurm.i
 
 Right now I intend to dig a bit deeper and find a few more answers for questions related to k8s and minikube in particular.
 
-k8s:
+### k8s
+
 1. What is **RBAC**?
 2. **Role** and **ClusterRole**?
 3. **RoleBindings** and **ClusterRoleBinding**?
 4. **ServiceAccount**?
 
-minikube:
+### minikube
+
 1. What is **ingress** addon?
 2. What is **ingress-dns** addon?
 3. Does **nginx ingress** pre-installed or pre-configured?
@@ -18,3 +20,12 @@ minikube:
 5. Does **traefik ingress** work only via **RBAC**?
 6. How to use latest version of **traefik ingress**?
 7. Why RAM and CPU limits are not applicable?
+
+   If minikube was created without any limits specification then all available resources are in use.
+   
+   Recreate minikube to use new limits:
+   ```bash
+   minikube stop
+   minikube delete
+   minikube start --vm-driver=none --cpus 4 --memory 8192
+   ```
