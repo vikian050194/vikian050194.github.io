@@ -2,7 +2,7 @@
 
 Recently I took part in an intensive course "k8s for developers" made by slurm.io and it was awesome. Before it I had only passive knowledge in this area, only once tried to connect to pod via kubectl, but the general idea in first approximation was almost clear. After it I have quite a good understanding of what's going on and a lot of practice experience. That’s great!
 
-Right now I intend to dig a bit deeper and find a few more answers for questions related to k8s and minikube in particular.
+Right now I intend to dig a bit deeper and find a few more answers for questions related to k8s and minikube in particular. Some of them were in the intensive, but I need to repeat it for myself.
 
 ### k8s
 
@@ -11,9 +11,15 @@ Right now I intend to dig a bit deeper and find a few more answers for questions
 3. **RoleBindings** and **ClusterRoleBinding**?
 4. **ServiceAccount**?
 5. Manifest that contains `kind: Ingress` is a instruction for Ingress controller?
+   
+   Yes, it seems so.
+
 6. What is Service? ClucterIP, NodePort, LoadBalancer, ExternalName and ExternalIPs?
 
    Service is k8s abstraction related to network.
+   
+   ???
+
 7. How to install and configure **nginx ingress controller** from scratch?
 8. How to install and configure **traefik ingress controller** from scratch?
 9. How to install and configure **dashboard** from scratch?
